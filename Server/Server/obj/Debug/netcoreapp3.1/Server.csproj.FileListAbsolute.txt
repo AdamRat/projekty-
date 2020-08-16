@@ -1,0 +1,13 @@
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

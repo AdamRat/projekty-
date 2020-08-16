@@ -1,0 +1,12 @@
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\bin\Release\netcoreapp3.1\Client.exe
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\bin\Release\netcoreapp3.1\Client.deps.json
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\bin\Release\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\bin\Release\netcoreapp3.1\Client.dll
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\bin\Release\netcoreapp3.1\Client.pdb
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\obj\Release\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\obj\Release\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\obj\Release\netcoreapp3.1\Client.dll
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\obj\Release\netcoreapp3.1\Client.pdb
+C:\Users\adamr\OneDrive\Pulpit\projekty z magdą\Client\Client\obj\Release\netcoreapp3.1\Client.genruntimeconfig.cache

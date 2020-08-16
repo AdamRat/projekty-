@@ -20,11 +20,12 @@ namespace Client
                 // This example uses port 11000 on the local computer.  
                 IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
                 IPAddress ipAddress = ipHostInfo.AddressList[0];
+                //IPAddress address = IPAddress.Parse(ipAddress);
                 IPEndPoint remoteEP = new IPEndPoint(ipAddress, 9081);
                 // Create a TCP/IP  socket.  
                 Socket sender = new Socket(ipAddress.AddressFamily,
                     SocketType.Stream, ProtocolType.Tcp);
-
+                
                 // Connect the socket to the remote endpoint. Catch any errors.  
                 try
                 {
@@ -32,15 +33,18 @@ namespace Client
 
                     Console.WriteLine("Socket connected to {0}",
                         sender.RemoteEndPoint.ToString());
+
+
+                    //byte[] username = Encoding.ASCII.GetBytes(Environment.UserName);
+                    //int bytesSenting = sender.Send(username);
                     string message = "";
-                    
+                    Console.WriteLine("Podaj co chcesz przesłać. Napisz Koniec aby zakończyć.");
                     do {
 
-                        message = Messages("Podaj co chcesz przesłać");
-                        
+                        message = Messages();
                         // Encode the data string into a byte array.  
-                        byte[] msg = Encoding.ASCII.GetBytes(message);
-                        //DateTime.Now +
+                        byte[] msg = Encoding.ASCII.GetBytes(Environment.UserName + ":     " + message);
+                        
                         // Send the data through the socket.  
                         int bytesSent = sender.Send(msg);
                         
@@ -81,9 +85,8 @@ namespace Client
                 return 0;
         }
 
-        private static string Messages(string question)
+        private static string Messages()
         {
-            Console.WriteLine(question);
             return Console.ReadLine();
         }
     }
